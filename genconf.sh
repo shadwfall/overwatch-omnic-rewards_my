@@ -13,7 +13,7 @@ cat > config.json << EOL
     "owc": true,
     "middle_click": "open_owl_owc",
     "left_click": "context_menu",
-    "min_check": 10,
+    "min_check": 2,
     "force_track": false
 }
 EOL
